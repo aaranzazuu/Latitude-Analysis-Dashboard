@@ -1,0 +1,47 @@
+/* Giving our navbar some padding and a background color */
+body {
+  background: #d1d1d3;
+}
+.navbar {
+  padding: 10px;
+  background: #f1f1f1;
+}
+.header h4 {
+  padding: 10px;
+  margin: 0;
+  color: #f1f1f1;
+  font-weight: 500;
+}
+
+.navbar-brand {
+  background: #059481;
+  padding: 5px;
+  color: white;
+}
+
+
+.nav-item{
+  
+}
+
+hr{
+  border: 1px solid #059481;
+  line-height: top;
+}
+
+.hr-internal{
+  height: 0px;
+  border: none;
+  border-top: 0.3px solid #929695;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #2b2929;
+  color: white;
+  text-align: center;
+  font-size: x-small;
+}
